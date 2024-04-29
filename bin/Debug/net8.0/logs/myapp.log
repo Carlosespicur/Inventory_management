@@ -1,0 +1,12 @@
+2024-04-09 12:32:04,893 [13] INFO  EntregaFinal.Services.ProductService - Intento de obtener el listado completo de inventario
+2024-04-09 13:16:34,957 [5] INFO  TestAuth.Controllers.IdentityController - Intento de login
+2024-04-09 13:16:34,982 [5] INFO  TestAuth.Controllers.IdentityController - token generado con éxito
+2024-04-09 13:16:56,361 [5] INFO  EntregaFinal.Controllers.ProductController - Intento de obtener el listado de productos en el inventario
+2024-04-11 20:47:50,474 [7] INFO  TestAuth.Controllers.IdentityController - Intento de login
+2024-04-11 20:47:50,502 [7] INFO  TestAuth.Controllers.IdentityController - token generado con éxito
+2024-04-11 20:48:01,206 [5] INFO  TestAuth.Controllers.IdentityController - Intento de login
+2024-04-11 20:48:01,207 [5] INFO  TestAuth.Controllers.IdentityController - token generado con éxito
+2024-04-11 20:48:08,142 [10] INFO  EntregaFinal.Controllers.ProductController - Intento de obtener el listado de productos en el inventario
+2024-04-11 20:48:49,200 [5] INFO  EntregaFinal.Controllers.ProductController - Intento de actualizar un artículo del inventario
+2024-04-11 20:49:16,519 [10] INFO  EntregaFinal.Controllers.ProductController - Intento de añadir un artículo al inventario
+2024-04-11 20:49:16,565 [10] INFO  EntregaFinal.Services.ProductService - Se encontró el producto en la base de datos

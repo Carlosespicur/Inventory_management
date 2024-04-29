@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C9E52B-6870-4A41-AC1F-B59E57122A8D}|..\\ApiTests\\ApiTesting.csproj|c:\\users\\carlos\\desktop\\apitests\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|c:\\users\\carlos\\desktop\\entregafinal\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181254B-1FB0-4B24-873F-5DBE51F65DE8}|EntregaFinal.csproj|solutionrelative:controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:26:43.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:10:32.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:10:26.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\ProductValidator.cs",
+              "RelativeToolTip": "ProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:10:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\ApiTests\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\ApiTests\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\ApiTests\\ProductServiceTest.cs",
+              "RelativeToolTip": "..\\ApiTests\\ProductServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:42:02.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:36:39.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:10:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "Controllers\\IdentityController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:02:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Desktop\\EntregaFinal\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:55:29.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
