@@ -1,12 +1,12 @@
-ENTREGA FINAL PRÁCTICA BACKEND (CURSO DIGITAL STACK GETD)
+
 
 La aplicación desarrollada es capaz de gestionar un inventario de productos, realizando operaciones CRUD.
 
-1. Descripción de la clase Product.cs
+### Descripción de la clase Product.cs
 
 Cada elemento del inventario será de la clase Product. Los atributos de cada producto son los siguientes: un identificador "ID" para la base de datos (por defecto, lo vamos a dejar en 0 normalmente para que el sistema añada automáticamente el identificador de modo que no haya identificadores repetidos), el nombre "Name" del producto, una descripción "Description", el precio por unidad de producto "UnitPrice", el número de ventas "ProductSales" que se registran a través del usuario, el número de unidades de reabastecimiento "ReorderQuantity" y los stocks pre-actualización y post-actualización ("PreviousStock" y "Stock" respectivamente). Se considera un validador ProductValidator.cs para asegurarnos que los datos introducidos son coherentes.
 
-2. Descripción de las clases ProductService.cs y ProductController.cs
+### Descripción de las clases ProductService.cs y ProductController.cs
 
 La aplicación puede procesar varios tipos de solicitudes: 
 
